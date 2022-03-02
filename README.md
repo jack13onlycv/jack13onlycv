@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yauheni Shatau
+- 👋 **Hi, I’m Yauheni Shatau**
 
 I’m a junior front-end developer.
 
